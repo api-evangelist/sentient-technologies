@@ -1,0 +1,77 @@
+{
+    "name": "Sentient Technologies",
+    "description": "For over ten years Sentient has developed cutting-edge AI software. Harness the power of AI to improve customer engagement and uplift website conversions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28242-www-sentient-ai.jpg",
+    "tags": [
+        "api not found",
+        "artificial intelligence",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sentient-technologies\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sentient Technologies",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28242-www-sentient-ai.jpg",
+            "humanURL": "https:\/\/www.sentient.ai",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sentient-technologies-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.sentient.ai\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/genetic-finance"
+        },
+        {
+            "type": "Email",
+            "url": "emea@sentient.ai"
+        },
+        {
+            "type": "Email",
+            "url": "korea@sentient.ai"
+        },
+        {
+            "type": "Email",
+            "url": "anz@sentient.ai"
+        },
+        {
+            "type": "Email",
+            "url": "press@sentient.ai"
+        },
+        {
+            "type": "Email",
+            "url": "support@sentient.ai"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@sentient.ai"
+        },
+        {
+            "type": "Email",
+            "url": "gdpr@sentient.ai"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SentientDAI"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.sentient.ai"
+        }
+    ]
+}
